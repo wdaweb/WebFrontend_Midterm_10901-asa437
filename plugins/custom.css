@@ -29,6 +29,23 @@ body{
 .asawallback3{
   background: url("http://220.128.133.15/s1090208/Resume/other/phtoto_reference/PHP-Resume/wall5.jpg") !important;
 }
+.asawallback4{
+  background: url("http://220.128.133.15/s1090208/Resume/other/phtoto_reference/PHP-Resume/0719BK2-1.jpg") !important;
+  background-position:center;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  width: 100vw;
+  height: 90vh;
+}
+
+.asalogback{
+  background: url("http://220.128.133.15/s1090208/Resume/other/phtoto_reference/PHP-Resume/0719BK1-1.jpg") !important;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 
 
 .smallback{
