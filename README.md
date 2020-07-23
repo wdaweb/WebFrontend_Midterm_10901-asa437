@@ -29,7 +29,7 @@
 
 5. **使用 CSS-Hover 視覺動態 / 10 分**
 <br>網站舉任一主題內使用 CSS 轉場或任何動態效果設計，使滑鼠於互動 hover 時產生視覺變化。
-<br>說明:nav端的hover效果，滑鼠滑過去時，字會從灰白轉成亮白。
+<br>說明:nav端的hover效果，滑鼠滑過去時，字會從灰白轉成橘紅。
 
 6. **GitPage 上傳 / 10 分**
 <br>使用個人 Github 帳號上傳 repository 並開啟 Github Page 功能（複製連結提供繳交說明）。
